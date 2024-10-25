@@ -1,0 +1,6 @@
+com\mediatheque\ejb\UserOperationsBean.class
+com\mediatheque\entities\Media.class
+com\mediatheque\entities\Emprunt.class
+com\mediatheque\entities\Utilisateur.class
+com\mediatheque\ejb\AdminOperationsBean.class
+com\mediatheque\App.class
